@@ -45,7 +45,7 @@ const response = await fetch("http://localhost:3000/validate", {
 ## 2) How to receive data
 All in JSON format 
 
-### **/REGISTER responses 
+### **/REGISTER responses** 
 Error reponse 409
 ```
 {
